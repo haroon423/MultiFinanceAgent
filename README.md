@@ -4,8 +4,8 @@
 
 ## Features
 
-- **Web Search Agent** to fetch the latest news and information using DuckDuckGo.
-- **Financial Agent** to gather stock prices, analyst recommendations, company news, technical indicators, and historical prices using YFinance.
+- Web Search Agent to fetch the latest news and information using DuckDuckGo.
+- Financial Agent to gather stock prices, analyst recommendations, company news, technical indicators, and historical prices using YFinance.
 - Multi-agent collaboration to produce detailed summaries with sources and formatted tables.
 - Easy to customize and extend with different AI models and tools.
 
@@ -17,7 +17,3 @@ cd MultiFinanceAgent
 python -m venv myenv310
 myenv310\Scripts\activate   # Windows
 pip install -r requirements.txt
-
-## Usage
-python finance-ai-agent.py
-
